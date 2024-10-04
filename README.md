@@ -7,4 +7,4 @@ Very lightweight AI Core and *Deep Reinforced Trainer
 - *Built-in trainer
 - Save and Load to a file
 
-* means TODO in near future
+\* means TODO in near future
